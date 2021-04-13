@@ -2,6 +2,10 @@
 
 Calculadora con funciones simples.
 
+## Grupo 3
+
+- Vera Samuel
+
 ## Comandos
 
 ```bash
