@@ -17,8 +17,13 @@ function res(a, b) {}
 function mul(a, b) {}
 
 function div(a, b) {
-    // Tener en cuenta division por 0
-    // Si b es 0 retornar "Error: div by 0"
+    if (b === 0) {
+       return "Error: no es posible la division por cero";
+    }
+    if (isNaN(a) || isNaN(b)) {
+        return "Error: por favor ingrese numeros";
+    }
+    return a / b;
 }
 
 function pow(a, b) {}
