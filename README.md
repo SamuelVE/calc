@@ -5,7 +5,7 @@ Calculadora con funciones simples.
 ## Grupo 3
 
 - Vera Samuel
-
+- Urzagasti Silvia Liliana
 ## Comandos
 
 ```bash
