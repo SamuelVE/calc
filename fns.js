@@ -18,7 +18,7 @@ function mul(a, b) {}
 
 function div(a, b) {
     if (b === 0) {
-       return "Error: no es posible la division por cero";
+       return "Error: div by 0";
     }
     if (isNaN(a) || isNaN(b)) {
         return "Error: por favor ingrese numeros";
