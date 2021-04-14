@@ -26,6 +26,8 @@ function div(a, b) {
     return a / b;
 }
 
-function pow(a, b) {}
+function pow(a, b) {
+	return a ** b;
+}
 
 module.exports = fns;
