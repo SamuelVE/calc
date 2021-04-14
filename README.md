@@ -6,6 +6,7 @@ Calculadora con funciones simples.
 
 - Vera Samuel
 - Urzagasti Silvia Liliana
+- Taboada Diego
 ## Comandos
 
 ```bash
