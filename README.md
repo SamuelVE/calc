@@ -2,7 +2,7 @@
 
 Calculadora con funciones simples.
 
-## Grupo 3
+## Grupo XX
 
 - Vera Samuel
 - Urzagasti Silvia
